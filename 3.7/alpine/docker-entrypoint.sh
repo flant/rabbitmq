@@ -67,6 +67,7 @@ rabbitConfigKeys=(
 	vm_memory_high_watermark
 )
 fileConfigKeys=(
+	management_path_prefix
 	management_ssl_cacertfile
 	management_ssl_certfile
 	management_ssl_keyfile
